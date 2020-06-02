@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .hobby{
 	width: 250px 
 }
@@ -8,4 +9,16 @@
 .like{
 	background-color: violet;
 	margin: 150px;
+=======
+.hobby{
+	width: 250px 
+}
+.myinfo{
+	background-color: skyblue;
+	margin: 150px;
+}
+.like{
+	background-color: violet;
+	margin: 150px;
+>>>>>>> e75bd4ef8fa0c9092c6751bec96e0649a2f01f38
 }
